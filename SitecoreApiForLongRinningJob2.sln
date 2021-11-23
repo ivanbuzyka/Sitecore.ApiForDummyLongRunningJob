@@ -5,6 +5,11 @@ VisualStudioVersion = 17.0.31912.275
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SitecoreApiForLongRinningJob2", "SitecoreApiForLongRinningJob2\SitecoreApiForLongRinningJob2.csproj", "{218CA03E-2BB2-4E5A-9A7D-05C5144A66BC}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SPE-scripts", "SPE-scripts", "{E3BB6C3F-A97B-4FBF-9F42-9AD9F0566977}"
+	ProjectSection(SolutionItems) = preProject
+		CallAnCheckStatusScript.ps1 = CallAnCheckStatusScript.ps1
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

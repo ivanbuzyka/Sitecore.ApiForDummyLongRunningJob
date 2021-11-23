@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "218ca03e-2bb2-4e5a-9a7d-05c5144a66bc": {
+      "ProjectGuid": "218ca03e-2bb2-4e5a-9a7d-05c5144a66bc",
+      "DisplayName": "SitecoreApiForLongRinningJob2",
+      "ColorIndex": 0
+    },
+    "e3bb6c3f-a97b-4fbf-9f42-9ad9f0566977": {
+      "ProjectGuid": "e3bb6c3f-a97b-4fbf-9f42-9ad9f0566977",
+      "DisplayName": "SPE-scripts",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
